@@ -4,7 +4,7 @@
 - [concern/motivation](./concern)
 - [architecture](./arch)
 - [model](./model)
-- [topics](./topic)
+- [topics](./topics)
 
 ### Current research
 - [peers](./files/peers.md)

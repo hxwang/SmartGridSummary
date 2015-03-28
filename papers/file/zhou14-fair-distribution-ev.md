@@ -2,3 +2,5 @@
 
 ### Summary
 In this paper, the authors investigate how to charge EVs as fair as possible when the peak energy is not able to simultaneously satisfy all energy demand.
+- In specific, they select vehicles to charge in preference of maximum delay, i.e., they aim to minimize the maximum delay
+- They compare the designed algorithms with FCFS, Round Robin etc.

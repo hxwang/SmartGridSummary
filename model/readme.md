@@ -5,3 +5,16 @@
 - Motivation
   - Battery Energy Storage (BES) plays an increasingly important role in the modern deregularted electricity market. 
     - For instance, in cities such as San Francisco and New York, where power is costly, large commercial buildings are installed with batteries in their basements, for the purppose of storing electricity at night when prices are low, and tappling into the batteries during peak afternoons when prices are high [[Tan-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007733).
+
+### Smart Meter
+- The smart meters are installed at each household and connected to the supplier through AMI.
+
+### Supplier/Grid
+- The energy supplier is either an actual power generator or a grid operation (e.g., a utility).
+  - It has legitimae interst and priviledge to collect the identifiable consumption data. 
+  
+### Third-Party
+- There exist multiple third-party data consumers who are allowed to access smart metering data non-instrusively. 
+- The supplier coolect terabytes of fine granular energy consumption measurements stemming from various consumer households, and provies access to energy service providers in two ways:
+  - 1. publishing pseudonymized consumption data to external stakeholders for secondary use
+  - 2. answering queries of providers

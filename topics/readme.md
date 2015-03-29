@@ -6,3 +6,8 @@
 
 ### Worload shifting
 - Schedule shiftable appliances in a way that they are activated in off-peak hours, so that the *peak-to-average  (PAR)* ratio in load demand is mitigated and the total energy cost to the utility company is reduced. [[Sola-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7007722)
+
+
+### Renewable Energy Aggregation
+- Aggregation [[Harirchi-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7007714)
+  - Renewable energy aggregation has been introduced as a solution to reduce the uncertainty of this type of sources.

@@ -14,4 +14,4 @@
 ### Security
 |Title| Status| Rate|
 |:----|:---|:---|
-|[Privacy-Perseving Data Sharing in Smart Grid Systems](ieeexplore.ieee.org/stamp.jsp?tp=&arnumber=7007759), by *Lei Yang*, in SmartGridComm 2014, [[Summary]](./file/yang14-privacy-preseving.md)
+|[Privacy-Perseving Data Sharing in Smart Grid Systems](ieeexplore.ieee.org/stamp.jsp?tp=&arnumber=7007759), by *Lei Yang*, in SmartGridComm 2014, [[Summary]](./file/yang14-privacy-preserving.md)

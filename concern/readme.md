@@ -8,6 +8,8 @@
 #### Challenges
 - To allow the user of electric vehicles to increase as rapidly as possible, it is necessary to find techniques to manage electric vehicle charging so that their oweners are not inconvenienced[[Zhou-2014]](http://arxiv.org/ftp/arxiv/papers/1402/1402.2489.pdf). . 
 
+### Data Privacy
+- [consumer's concern and the help of battery](http://spectrum.ieee.org/energy/the-smarter-grid/privacy-on-the-smart-grid)
 
 ### Security
 - Smart Meter

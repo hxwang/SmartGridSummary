@@ -18,3 +18,4 @@
 |[[Demand-Side Management in a Smart Micro-Grid: A Distributed Approach Based on Bayesian Game Theory]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7007722), by *Matteo Sola*, in SmartGridComm 2014, [[Sumary]](./file/sola14-demand-side-bayesian-game-theory.md)| 3/29/2015| ****|
 |[Use battery to protect privacy](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6641006&tag=1), in CCC 2013| 03/29/2014| ***| 
 |[Privacy for Smart Meters: Towards Undetectable Appliance Load Signatures](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5622047), by *Kalogridis, G.*, in SmartGridComm 2010| | |
+|[Smart meter privacy using a rechargeable battery: Minimizing the rate of information leakage](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5946886)| | |

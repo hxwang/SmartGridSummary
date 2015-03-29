@@ -10,3 +10,8 @@
 |Title| Status| Rate|
 |:----|:---|:---|
 |[Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007733), by *Xiaoqi Tan*, in SmartGridComm 2014, [[Summary]](./file/tan12-optimal-energy-trading.md)| 3/28/2015| ***|
+
+### Security
+|Title| Status| Rate|
+|:----|:---|:---|
+|[Privacy-Perseving Data Sharing in Smart Grid Systems](ieeexplore.ieee.org/stamp.jsp?tp=&arnumber=7007759), by *Lei Yang*, in SmartGridComm 2014, [[Summary]](./file/yang14-privacy-preseving.md)

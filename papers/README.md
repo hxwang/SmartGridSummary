@@ -16,3 +16,4 @@
 |:----|:---|:---|
 |[Privacy-Perseving Data Sharing in Smart Grid Systems](ieeexplore.ieee.org/stamp.jsp?tp=&arnumber=7007759), by *Lei Yang*, in SmartGridComm 2014, [[Summary]](./file/yang14-privacy-preserving.md)|3/28/2015| ***|
 |[[Demand-Side Management in a Smart Micro-Grid: A Distributed Approach Based on Bayesian Game Theory]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7007722), by *Matteo Sola*, in SmartGridComm 2014, [[Sumary]](./file/sola14-demand-side-bayesian-game-theory.md)| 3/29/2015| ****|
+|[Use battery to protect privacy](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6641006&tag=1), in CCC 2013| 03/29/2014| ***| 

@@ -24,4 +24,4 @@
 ### Privacy
 - Given the fact that metering data of individual homes/factories is accumulated every 15 min, it is possible to infer the pattern of electricity consumption of individual users. [[Wang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629)
 - It would be possible for utilities to infer the type of appliances individual customers are using at every 15 min (i.e., when you are using your computer and when your garage door is activated). The compromise of cutomers' privacy would be significant if they are left unprotected [[Wang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629). 
-- User privacy protection mechanism is not applicable to smart grid. [[Wang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629)
+- User privacy protection mechanisms in other fields are not applicable to smart grid. [[Wang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629)

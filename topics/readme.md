@@ -11,3 +11,6 @@
 ### Renewable Energy Aggregation
 - Aggregation [[Harirchi-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7007714)
   - Renewable energy aggregation has been introduced as a solution to reduce the uncertainty of this type of sources.
+
+### Privacy
+- [Battery-based Load Hiding (BLH)](./file/blh.md)

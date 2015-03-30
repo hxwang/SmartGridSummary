@@ -3,3 +3,6 @@
 ### Summary
 In this paper, the authors propose a novel protocol, which allows individual meters to report the true electricity consumption reading with a pre-determined probability.
 - Load serving entities (LSE) can reconstruct the total electricity consumption of a region or a district through inference algorithm, but their ability of identifying individual users' energy consumption pattern is significantly reduced.
+
+### TODO
+- the reconstruction of the power consumption is interesting, go through it later

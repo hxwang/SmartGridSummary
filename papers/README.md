@@ -24,4 +24,5 @@
 |[Use battery to protect privacy](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6641006&tag=1), in CCC 2013| 3/29/2015| ***| 
 |[Privacy for Smart Meters: Towards Undetectable Appliance Load Signatures](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5622047), by *Kalogridis, G.*, in SmartGridComm 2010| | |
 |[Smart meter privacy using a rechargeable battery: Minimizing the rate of information leakage](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5946886)| | |
-|[A Randomized Response Model for Privacy Preseving Smart Metering](), by *Shuang Wang*, in TSG 2012, [[Summary]](./file/wang12-randomized-response-privacy.md)| 3/30/2015| ****|
+|[A Randomized Response Model for Privacy Preseving Smart Metering]((http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629)
+), by *Shuang Wang*, in TSG 2012, [[Summary]](./file/wang12-randomized-response-privacy.md)| 3/30/2015| ****|

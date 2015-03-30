@@ -22,4 +22,4 @@
 
 
 ### Privacy
-- Given the fact that metering data of individual homes/factories is accumulated every 15 min, it is possible to infer the pattern of electricity consumption of individual users.
+- Given the fact that metering data of individual homes/factories is accumulated every 15 min, it is possible to infer the pattern of electricity consumption of individual users. [[Wang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629)

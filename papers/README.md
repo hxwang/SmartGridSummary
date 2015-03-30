@@ -11,6 +11,11 @@
 |:----|:---|:---|
 |[Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007733), by *Xiaoqi Tan*, in SmartGridComm 2014, [[Summary]](./file/tan12-optimal-energy-trading.md)| 3/28/2015| ***|
 
+### Renewable Energy Utilization
+|Title| Status| Rate|
+|:----|:---|:---|
+|[Optimal Energy Management for Building Microgrid with Constrainted Renewable Energy Utilization](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007635), by *Hieu Trung Nguyen*, in SmartGridComm 2014, [[Summary]](./file/Nguyen14-em-mg-renewables.md)| 3/30/2015| *|
+
 ### Security & Privacy
 |Title| Status| Rate|
 |:----|:---|:---|

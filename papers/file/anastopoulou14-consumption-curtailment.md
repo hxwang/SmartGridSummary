@@ -23,3 +23,6 @@
 ### Question
 - How this incentive different from dynamic energy price?
 
+### TODO
+- I didn't go into details of how the game works.
+

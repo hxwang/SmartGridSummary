@@ -1,5 +1,7 @@
 ## [Energy Trading in the Smart Grid: From End-user's Perspective](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6810288)
 
+- [a more detailed version](http://web.cse.ohio-state.edu/~prasun/publications/conf/asilomar13_smartgrid.pdf)
+
 ### Summary
 In this paper, the authors proposed an algorithm to optimize the profits of homes with renewable energy installation and battery storage. In particular, the homes could trading energy with the smart grid to make profit. Their algorithm does not require future knowledge of energy harvesting, demands, electricity prices.
 

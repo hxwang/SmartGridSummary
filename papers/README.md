@@ -12,6 +12,11 @@
 |[Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007733), by *Xiaoqi Tan*, in SmartGridComm 2014, [[Summary]](./file/tan12-optimal-energy-trading.md)| 3/28/2015| ***|
 |[Energy Trading in the Smart Grid: From End-user's Perspective](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6810288), by **Shenbo Chen*, in Signals, Systems and Computers 2013, [[Summary]](./file/chen13-energy-trading.md)| | |
 
+### Workload Scheduling
+|Title| Status| Rate|
+|:----|:---|:---|
+|[Scheduling Heterogenous Delay-Tolerant tasks in smart grid with renewable energy](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6426013), by *Shenbo Chen*, in CDC 2012| |
+
 ### Renewable Energy Utilization
 |Title| Status| Rate|
 |:----|:---|:---|

@@ -13,6 +13,8 @@
 |[Energy Trading in the Smart Grid: From End-user's Perspective](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6810288), by **Shenbo Chen*, in Signals, Systems and Computers 2013, [[Summary]](./file/chen13-energy-trading.md)| | |
 
 ### Energy Trading (Electric Vehicles)
+|Title| Status| Rate|
+|:----|:---|:---|
 |[A multi-layer market for vehicle-to-grid energy trading in the smart grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6193525), by *A.Lam*, in INFOCOM WKSHPS 2012| | |
 
 ### Workload Scheduling

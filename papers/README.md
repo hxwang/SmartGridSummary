@@ -6,11 +6,14 @@
 |:----|:---|:---|
 |[The Fiar Distribution of Power to Electric Vehicles: An Alternative to Pricing](http://arxiv.org/ftp/arxiv/papers/1402/1402.2489.pdf), by *Yingjie Zhou*, in SmartGridComm 2014, [[Summary]](./file/zhou14-fair-distribution-ev.md)| 3/28/2015| ***|
 
-### Energy Trading
+### Energy Trading (Homes)
 |Title| Status| Rate|
 |:----|:---|:---|
 |[Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007733), by *Xiaoqi Tan*, in SmartGridComm 2014, [[Summary]](./file/tan12-optimal-energy-trading.md)| 3/28/2015| ***|
 |[Energy Trading in the Smart Grid: From End-user's Perspective](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6810288), by **Shenbo Chen*, in Signals, Systems and Computers 2013, [[Summary]](./file/chen13-energy-trading.md)| | |
+
+### Energy Trading (Electric Vehicles)
+|[A multi-layer market for vehicle-to-grid energy trading in the smart grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6193525), by *A.Lam*, in INFOCOM WKSHPS 2012| | |
 
 ### Workload Scheduling
 |Title| Status| Rate|

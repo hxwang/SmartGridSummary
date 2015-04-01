@@ -2,7 +2,7 @@
 
 
 ### Summary
-
+In this paper, the authors study the load curtail problem. They propose an incentive mechanism that benefit both the consumers and utility operator.
 
 ### Model
 - Utility operators purchases energy from the wholesale market at time-varying prices and resell it to consumers at fixed tariffs.  
@@ -16,7 +16,9 @@
 ### Challenge
 - Even if a priori agreement is reached between the operator and a user about the load to curtail
   - It is entirely up to the user to consume the load or not.
-
+  - when obeys the curtail, consumer i receives reward r_i
+  - when vilate the curtail, consumer i receives find f_i
+  
 ### Algorithm
 - The model the problem as a full information game and dicuss the case of one consumer one producer, and N consumer one producer.
 

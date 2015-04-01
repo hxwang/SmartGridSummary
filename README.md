@@ -5,6 +5,7 @@
 - [architecture](./arch)
 - [model](./model)
 - [topics](./topics)
+- [algorithm](./algorithm)
 
 ### Current research
 - [peers](./files/peers.md)

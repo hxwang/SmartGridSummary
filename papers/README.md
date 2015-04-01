@@ -11,6 +11,7 @@
 |:----|:---|:---|
 |[Optimal Energy Trading with Battery Energy Storage under Dynamic Pricing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7007733), by *Xiaoqi Tan*, in SmartGridComm 2014, [[Summary]](./file/tan12-optimal-energy-trading.md)| 3/28/2015| ***|
 |[Energy Trading in the Smart Grid: From End-user's Perspective](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6810288), by **Shenbo Chen*, in Signals, Systems and Computers 2013, [[Summary]](./file/chen13-energy-trading.md)| | |
+|[Stochastic market trading via stochastic network optimization](http://ee.usc.edu/stochastic-nets/docs/stocks-cdc2010.pdf), by *M.J.Neely*, in CDC 2010| | |
 
 ### Energy Trading (Electric Vehicles)
 |Title| Status| Rate|

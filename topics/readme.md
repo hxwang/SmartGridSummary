@@ -14,3 +14,4 @@
 
 ### Privacy
 - [Battery-based Load Hiding (BLH)](./file/blh.md)
+- [Renewable Energy](./file/privacy-renewable.md)

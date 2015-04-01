@@ -8,3 +8,10 @@
   - has renewable energy panel
   - can trade with the grid
 - Dynamic energy price
+
+### Algorithm
+- does not require the knowledge of 
+  - energy demands
+  - electricity prices
+  - renewable energy arrival process
+  

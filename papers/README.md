@@ -16,6 +16,7 @@
 |Title| Status| Rate|
 |:----|:---|:---|
 |[Scheduling Heterogenous Delay-Tolerant tasks in smart grid with renewable energy](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6426013), by *Shenbo Chen*, in CDC 2012| |
+|[Control and Optimization meet the smart power grid](http://dl.acm.org/citation.cfm?id=2318723), by *I.Koutsopoulos*, in e-Energy 2011| | |
 
 ### Renewable Energy Utilization
 |Title| Status| Rate|

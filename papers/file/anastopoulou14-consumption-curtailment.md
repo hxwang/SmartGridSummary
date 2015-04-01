@@ -8,3 +8,5 @@
 
 ### Algorithm
 
+### Question
+- How this incentive different from dynamic energy price?

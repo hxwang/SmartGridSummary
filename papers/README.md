@@ -23,7 +23,7 @@
 |:----|:---|:---|
 |[Scheduling Heterogenous Delay-Tolerant tasks in smart grid with renewable energy](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6426013), by *Shenbo Chen*, in CDC 2012| |
 |[Control and Optimization meet the smart power grid](http://dl.acm.org/citation.cfm?id=2318723), by *I.Koutsopoulos*, in e-Energy 2011| | |
-|[Efficient Incentive-Driven Consumption Curtailment Mechanisms in Nega-Watt Markets](), by *Angeliki Anastopoulou*, in SmartGridComm 2014| | |
+|[Efficient Incentive-Driven Consumption Curtailment Mechanisms in Nega-Watt Markets](), by *Angeliki Anastopoulou*, in SmartGridComm 2014, [[Summary]](./file/anastopoulou14-consumption-curtailment.md)| | |
 
 ### Renewable Energy Utilization
 |Title| Status| Rate|

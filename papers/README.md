@@ -40,4 +40,4 @@
 |[Privacy for Smart Meters: Towards Undetectable Appliance Load Signatures](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5622047), by *Kalogridis, G.*, in SmartGridComm 2010| | |
 |[Smart meter privacy using a rechargeable battery: Minimizing the rate of information leakage](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5946886)| | |
 |[A Randomized Response Model for Privacy Preseving Smart Metering](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629), by *Shuang Wang*, in TSG 2012, [[Summary]](./file/wang12-randomized-response-privacy.md)| 3/30/2015| ****|
-|[Smart Meter Privacy in the Presence of Energy Harvesting and Storage Devices](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486062), by *Onur Tan*, in SmartGridComm 2012| | |
+|[Smart Meter Privacy in the Presence of Energy Harvesting and Storage Devices](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486062), by *Onur Tan*, in SmartGridComm 2012, [[Summary]](./file/tan12-privacy-harvesting-battery.md)| | |

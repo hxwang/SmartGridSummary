@@ -2,6 +2,7 @@
 
 
 ### Summary
+In this paper, the authors study the problem of protecting privacy of smart homes using battery storage device. In particular, the privacy is protected by charging/discharging battery to hide the real electricity usage. They design a simple **Best Effort (BE)** scheme to solve this problem with the objective of hiding the electricity changes in two successive time slots.
 
 ### Definition
 - Privacy

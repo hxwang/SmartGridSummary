@@ -43,4 +43,4 @@
 |[Smart Meter Privacy in the Presence of Energy Harvesting and Storage Devices](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486062), by *Onur Tan*, in SmartGridComm 2012, [[Summary]](./file/tan12-privacy-harvesting-battery.md)|4/2/2015| ****|
 |[Smart Meter Privacy in the Presence of an Alternative Energy Source](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6654823), by *Deniz Gunduz*, in ICC 2013, [[Summary]](./file/Gunduz13-privacy-alternative-energy.md)| 4/2/2015|**** |
 |[Affordable Privacy for Home Smart Meters](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5951954), by *Georgios Kalogridis*, in ISPAW 2011, [[Summary]](./file/kalogridis11-privacy-affordable.md)|4/2/2015 | ****|
-|[Achieving Differential Privacy of Data Disclosure in the Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974), by *Jing Zhao*, in INFOCOM 2014, [[Sumary]]()| | |
+|[Achieving Differential Privacy of Data Disclosure in the Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974), by *Jing Zhao*, in INFOCOM 2014, [[Sumary]](./file/zhao14-differential-privacy.md)| | |

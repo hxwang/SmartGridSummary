@@ -15,4 +15,6 @@
   
 ### Algorithm
 - **Best Effort (BE)** scheme
+  - try the best effort to main the same level of electricity usage in two successive time slots
+  - charge the battery only when the energy in the battery is not enough to maintain the same level electricity usage of current time slot and last time slot
   

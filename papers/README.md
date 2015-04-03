@@ -1,5 +1,6 @@
 ## Paper Summary
 
+- note: the rating of a paper is based on its relevance to my research
 
 ### Electric Vehicles
 |Title| Status| Rate|

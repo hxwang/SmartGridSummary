@@ -7,3 +7,6 @@
 - The main challenge faced by the BLH schemes come from the constraints on the capacity and the maximum charging/discharging rate of the battery. [[Zhao-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974)
 - The evaluation is based on entropy theory in general. It is not clear how it relates to practise. [[Zhao-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974)
 - They didn't address the privacy requirements of different appliances. [[Zhao-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974)
+
+### Attack
+- Edge Detection based on NILM methods

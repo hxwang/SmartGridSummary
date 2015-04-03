@@ -37,7 +37,7 @@
 |[Privacy-Perseving Data Sharing in Smart Grid Systems](ieeexplore.ieee.org/stamp.jsp?tp=&arnumber=7007759), by *Lei Yang*, in SmartGridComm 2014, [[Summary]](./file/yang14-privacy-preserving.md)|3/28/2015| ***|
 |[[Demand-Side Management in a Smart Micro-Grid: A Distributed Approach Based on Bayesian Game Theory]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7007722), by *Matteo Sola*, in SmartGridComm 2014, [[Sumary]](./file/sola14-demand-side-bayesian-game-theory.md)| 3/29/2015| ****|
 |[Use battery to protect privacy](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6641006&tag=1), in CCC 2013| 3/29/2015| ***| 
-|[Privacy for Smart Meters: Towards Undetectable Appliance Load Signatures](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5622047), by *Kalogridis, G.*, in SmartGridComm 2010| | |
+|[Privacy for Smart Meters: Towards Undetectable Appliance Load Signatures](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5622047), by *Kalogridis, G.*, in SmartGridComm 2010, [[Summary]](./file/Kalogridis10-privacy-undetectable.md)| | |
 |[Smart meter privacy using a rechargeable battery: Minimizing the rate of information leakage](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5946886)| | |
 |[A Randomized Response Model for Privacy Preseving Smart Metering](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6203629), by *Shuang Wang*, in TSG 2012, [[Summary]](./file/wang12-randomized-response-privacy.md)| 3/30/2015| ****|
 |[Smart Meter Privacy in the Presence of Energy Harvesting and Storage Devices](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486062), by *Onur Tan*, in SmartGridComm 2012, [[Summary]](./file/tan12-privacy-harvesting-battery.md)|4/2/2015| ****|

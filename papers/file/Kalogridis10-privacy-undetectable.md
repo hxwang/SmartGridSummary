@@ -4,4 +4,4 @@
 ### Summary
 
 ### Algorithm
-- *Best Effort (BE)* scheme
+- **Best Effort (BE)** scheme

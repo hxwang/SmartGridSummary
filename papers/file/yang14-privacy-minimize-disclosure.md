@@ -5,3 +5,6 @@
 
 ### Algorithm
 - **Stepping Framework (SF)**
+
+### TODO
+- check how they compare the algorithms

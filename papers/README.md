@@ -47,4 +47,4 @@
 |[Achieving Differential Privacy of Data Disclosure in the Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974), by *Jing Zhao*, in INFOCOM 2014, [[Sumary]](./file/zhao14-differential-privacy.md)|4/3/2015 |** |
 |[Protecting Consumer Privacy from Electric Load Monitoring](http://www.cse.psu.edu/~smclaugh/cse598e-f11/papers/mclaughlin-ccs.pdf), by *S. McLaughlin*, in CCS 2011, [[Summary]](./file/mclaughlin11-privacy-consumer.md)| 4/4/2015|***** |
 |[Minimizing Private data disclosures in the smart grid](http://dl.acm.org/citation.cfm?id=2382242), by *W.Yang*, in CCS 2012, [[Summary]](./file/yang14-privacy-minimize-disclosure.md)| | |
-|[Inferring Personal Information from Demand-Response System](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5403146&tag=1), by *Lisovich*, in S&P 2010| | |
+|[Inferring Personal Information from Demand-Response System](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5403146), by *Lisovich*, in S&P 2010| | |

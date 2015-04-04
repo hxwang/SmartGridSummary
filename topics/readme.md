@@ -13,5 +13,8 @@
   - Renewable energy aggregation has been introduced as a solution to reduce the uncertainty of this type of sources.
 
 ### Privacy
-- [Battery-based Load Hiding (BLH)](./file/blh.md)
-- [Renewable Energy](./file/privacy-renewable.md)
+- Attack
+  - [Non-intrusive Load Monitoring](./file/nilm.md)
+- Protect
+  - [Battery-based Load Hiding (BLH)](./file/blh.md)
+  - [Renewable Energy](./file/privacy-renewable.md)

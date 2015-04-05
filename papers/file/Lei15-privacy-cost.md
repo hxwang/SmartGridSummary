@@ -25,4 +25,7 @@
   - c(t): energy price at time t
   - c_max: upper bound of c(t)
 
-
+### Objective
+- Jointly optimize the cost of power and smart meter data privacy, while meeting the constraints. 
+- Assumption: L(t) and c(t) are i.i.d. over slots.
+  - Note that this assumption can be removed by using delayed Lyapunov drift and T slot drift techniques.

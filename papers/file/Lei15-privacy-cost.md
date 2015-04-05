@@ -19,4 +19,4 @@
   - L_max: upper bound of L(t)
   - P(t): Power drawned from the grid to serve the load
     - P(t) = L(t) + B(t)
-  - P_max: upper bound of P_max
+  - P_max: upper bound of P(t)

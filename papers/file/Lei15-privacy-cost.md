@@ -20,3 +20,9 @@
   - P(t): Power drawned from the grid to serve the load
     - P(t) = L(t) + B(t)
   - P_max: upper bound of P(t)
+    - P_max >= L_max
+- Electricity Pricing Model
+  - c(t): energy price at time t
+  - c_max: upper bound of c(t)
+
+

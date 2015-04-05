@@ -12,6 +12,46 @@
 - Objective: maximize the difference between the demand load and external load
 - **Lazy-Stepping**
   - try to maintain the external load unchanged as long as possible
+
+```python
+t = 0
+b = min(b_charge, b_discharge) # the maximum bettary power
+e = [] # meter read
+d = [] # demand
+h = [] # coefficeny e[t] = h[t] * b
+s = [] # charing signal 0 = discharge, 1 = charge
+C = [] # current battery capacity
+
+def lazy_steping(type):
+  
+  # battery change
+  b_t = e[t-1] - d[t] 
+  
+  if C[t-1] + b_t  > CH:
+    # battery is full
+    h[t] = h[t-1] - 1
+    s[t] = 0
+  elif C[t-1] + b_t < CL:
+    # battery is empty
+    h[t] = h[t+1] + 1
+    s[t] = 1
+  elif d[t] <= (h[t-1]-1)*b or d[t] >= (h[t-1]+1)*b
+    # demand changes too much
+    h[t] <- f(h[t-1]) # update h[t] accordingly
+    if type == "LS1":
+      s[i] = randint() % 2
+    if type == "LS2":
+      s[i] = 1 if C[t-1] < (CL + CH)/2 else 0
+  else:
+    h[t] = h[t-1]
+    s[t] = s[t-1]
+  
+  # update battery  
+  e[t] = h[t] * b
+  b_t = e[t] - d[t]
+  C[t] = C[t-1] + b_t  
+```
+
 - **Lazy-Charging**
   - try to keep charging the battery until the battery is full and then keep discharging the battery until it is empty
 - **Random-Charging**

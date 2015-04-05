@@ -17,4 +17,4 @@
   - [Non-intrusive Load Monitoring (NILM)](./file/nilm.md)
 - Protect
   - [Battery-based Load Hiding (BLH)](./file/blh.md)
-  - [Renewable Energy](./file/privacy-renewable.md)
+  - [Other solutions](./file/others.md)

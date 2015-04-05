@@ -13,6 +13,8 @@
   - Renewable energy aggregation has been introduced as a solution to reduce the uncertainty of this type of sources.
 
 ### Privacy
+- Definition
+  - [privacy Definition and Measurement](./file/privacy.md)
 - Attack
   - [Non-intrusive Load Monitoring (NILM)](./file/nilm.md)
 - Protect

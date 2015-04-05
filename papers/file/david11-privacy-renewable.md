@@ -2,3 +2,7 @@
 
 
 ### Summary
+In this paper, the authors model the information leakage with recharagble battery. They model the systen as a finite state model and use **trellis algorithm** to estimate the mutual information rate between the battery's input and output loads.
+
+### TODO
+- Look into how they model the mutual information

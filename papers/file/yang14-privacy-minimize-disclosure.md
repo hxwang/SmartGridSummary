@@ -2,6 +2,11 @@
 
 ### Summary
 
+### Model
+- observed load change: e'(t)
+- real load change: d'(t)
+- Objective: to provent leaking of information in the demand load change 
+  - One approach is to maintain the observed load as a constant, however, this approach will require a very large battery.
 
 ### Algorithm-Stepping Framework (SF)
 - Objective: maximize the difference between the demand load and external load

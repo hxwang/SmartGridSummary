@@ -2,7 +2,7 @@
 
 
 ### Summary
-
+In this paper, the authors study the battery load hiding approach and propose mechanism to tradeoff cost and privacy leakage.
 
 ### Model
 - Battery Model
@@ -32,3 +32,7 @@
 - Denote \bar(L) as the average load
   - then the objective is to minimize the variance of P(t)
   - **why**?
+
+
+### TODO
+- I don't understand why user privacy is modeled as the variance of P(t)

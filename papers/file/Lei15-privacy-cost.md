@@ -36,3 +36,4 @@ In this paper, the authors study the battery load hiding approach and propose me
 
 ### TODO
 - I don't understand why user privacy is modeled as the variance of P(t)
+- I didn't the optimization technique they use

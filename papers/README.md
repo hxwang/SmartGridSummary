@@ -49,4 +49,4 @@
 |[Minimizing Private data disclosures in the smart grid](http://dl.acm.org/citation.cfm?id=2382242), by *W.Yang*, in CCS 2012, [[Summary]](./file/yang14-privacy-minimize-disclosure.md)|4/4/2015  | ***** |
 |[Inferring Personal Information from Demand-Response System](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5403146), by *Lisovich*, in S&P 2010, [[Summary]](./file/Lisovich10-infer-privacy.md)|4/4/2015 | **|
 |[Privacy-Friendly Tasking and Trading of Energy in Smart Grids](http://dl.acm.org/citation.cfm?id=2480488), by *Tassos Dimitriou*, in SAC 13, [[Summary]](./file/dimitriou13-privacy-trading.md)|4/5/2015 |*** |
-|[Residential Energy Monitoring and Computerized Surveillance via Utility Power Flows](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=31557), by *Heorge W. Hart*, in TSM 1989, [[Summary]]()| 4/5/2015| ***|
+|[Residential Energy Monitoring and Computerized Surveillance via Utility Power Flows](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=31557), by *Heorge W. Hart*, in TSM 1989, [[Summary]](./file/george89-nilm.md)| 4/5/2015| ***|

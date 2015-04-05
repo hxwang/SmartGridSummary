@@ -29,3 +29,6 @@
 - Jointly optimize the cost of power and smart meter data privacy, while meeting the constraints. 
 - Assumption: L(t) and c(t) are i.i.d. over slots.
   - Note that this assumption can be removed by using delayed Lyapunov drift and T slot drift techniques.
+- Denote \bar(L) as the average load
+  - then the objective is to minimize the variance of P(t)
+  - **why**?

@@ -16,6 +16,11 @@
   - try to keep charging the battery until the battery is full and then keep discharging the battery until it is empty
 - **Random-Charging**
   - randomly choose whether to charge or discharge the battery
+
+### Limitation of Existing Approach
+- Best Effort (BE)
+  - when charging or discarging will exceed the battery capacities
+  - when even use the maximum charging/discharging rate, it may still fail to maintain a static load 
   
 ### TODO
 - check how they compare the algorithms

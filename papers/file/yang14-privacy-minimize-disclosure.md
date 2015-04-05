@@ -3,7 +3,7 @@
 ### Summary
 
 
-### Algorithm- Stepping Framework (SF)
+### Algorithm-Stepping Framework (SF)
 - Objective: maximize the difference between the demand load and external load
 - **Lazy-Stepping**
   - try to maintain the external load unchanged as long as possible

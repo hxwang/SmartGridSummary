@@ -5,3 +5,7 @@
 - **Drawback**
   - This merely transfers doubts about trustworthiness from one party to another
   
+### Modifying of metered data
+- **Drawback**
+  - This approach requires modification of the metering infrastructure, which may not be logistically and economically viable, with millions of smart meters already isntalled. 
+  - Besides, the modification of usage data could result in inaccurate billing and grid controls, thereby undermine grid management.

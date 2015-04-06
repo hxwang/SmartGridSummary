@@ -22,6 +22,11 @@ h = [] # coefficeny e[t] = h[t] * b
 s = [] # charing signal 0 = discharge, 1 = charge
 C = [] # current battery capacity
 
+def update_battery():
+  e[t] = h[t] * b
+  b_t = e[t] - d[t]
+  C[t] = C[t-1] + b_t
+
 def lazy_steping(type):
   
   # battery change
@@ -45,11 +50,34 @@ def lazy_steping(type):
   else:
     h[t] = h[t-1]
     s[t] = s[t-1]
+    
+ update_battery()
+ 
+
+def lazy_charging():
+  if s[t-1] ==1 and C[t-1] + b > CH:
+    s[t] = 0
+  elif s[t-1] == 0 and C[t-1] - b < CL:
+    s[t] = 1
+  else
+    s[t] = s[t-1]
   
-  # update battery  
-  e[t] = h[t] * b
-  b_t = e[t] - d[t]
-  C[t] = C[t-1] + b_t  
+  # update h[t] according to charging signal
+  h[t] <- f(h[t-1]) 
+  
+  update_battery()
+
+def random_charging():
+  p = (C[t-1] - CL) / (CH - CL)
+  if random.nextDouble() < p:
+    s[t] = 0
+  else
+    s[t] = 1
+  
+  # update h[t] according to charging signal
+  h[t] <- f(h[t-1]) 
+  
+  update_battery()
 ```
 
 - **Lazy-Charging**

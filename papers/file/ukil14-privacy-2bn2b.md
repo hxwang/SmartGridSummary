@@ -4,7 +4,7 @@
 In this paper, the authors test the sensitivity detection and analysis outcome using real smart meter data. 
 
 ### Results
-- Their scheme has higher Mahalanobis (ML) Distance
+- Their scheme has higher **Mahalanobis (ML) distance**
   - depicting more detection ability
-- Their scheme has larger Kullback Leibler (KL) divergence
+- Their scheme has larger **Kullback Leibler (KL) divergence**
   - Sanov's theorem from large deviation theory shos more KL divergence means more detection capability

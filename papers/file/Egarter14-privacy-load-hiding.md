@@ -14,7 +14,9 @@
   
 ### Proposed Load-based Load Hiding (LLH) Mechanism
 - Given the total energy consumption in a day of the boiler, use bata distribution to decide its energy consumption along the time.
-
+- Advantage
+  - Do not need to adjust charging/discharging according to workload, LLH can be implemented just by adding an instrucment to produce noise using a fixed distribution.
+  
 ### Model
 - Schematic representation of BLH system
 

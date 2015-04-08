@@ -18,5 +18,6 @@
 - Attack
   - [Non-intrusive Load Monitoring (NILM)](./file/nilm.md)
 - Protect
-  - [Battery-based Load Hiding (BLH)](./file/blh.md)
-  - [Other solutions](./file/others.md)
+  - [Solutions](./file/others.md)
+    - [Battery-based Load Hiding (BLH)](./file/blh.md)
+  

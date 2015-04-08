@@ -17,4 +17,5 @@
 
 
 ### Battery Load Hiding
-- Masking the power demand by adding or withdrawing to the meter visible energy demand with the help of recharable batteries or controllable load. [Battery Load Hiding](./blh.md)
+- Masking the power demand by adding or withdrawing to the meter visible energy demand with the help of recharable batteries or controllable load. 
+  - [Battery Load Hiding](./blh.md)

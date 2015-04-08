@@ -20,4 +20,4 @@
 ![](../figs/blh.PNG)
 
 - Schemeatic representation of LLH System
-![](../figs/llh.png)
+![](../figs/llh.PNG)

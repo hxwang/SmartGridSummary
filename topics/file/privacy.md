@@ -11,5 +11,5 @@
   - In addition, the measure whether S and v are drawn from the same distribution by using **Kolmogorov-Smirnov (KS)** test, the misfit is denoted as p_s
   - Finally, the privacy quatification is p_m * p_s
   - Comments
-    - This approach measure the information leakage. However, it can not directly be applied to smart grid privacy leakage. Since the privacy leakage is actually related to the detecting mechanism. It is not clear how entropy can corresponds to the information leakage.
+    - This approach measures the information leakage. However, it can not directly be applied to smart grid privacy leakage. Since the privacy leakage is in fact related to the detecting mechanism. It is not clear how the entropy corresponds to the information leakage.
 

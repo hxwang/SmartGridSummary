@@ -14,5 +14,8 @@
   - This approach requires modification of the metering infrastructure, which may not be logistically and economically viable, with millions of smart meters already isntalled. 
   - Besides, the modification of usage data could result in inaccurate billing and grid controls, thereby undermine grid management. Mentioned in [[Yang15]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6876215&tag=1)
 
+### Masking and Obfuscatin of metering data
+- Masking the power demand by adding or withdrawing to the meter visible energy demand with the help of recharable batteries or controllable load. Mentioned in [[Egarter-14]](../../papers/file/Egarter14-privacy-load-hiding.md)
+
 ### Battery Load Hiding
 - [Battery Load Hiding](./blh.md)

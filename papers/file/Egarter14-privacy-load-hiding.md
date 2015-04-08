@@ -37,3 +37,7 @@
 ### Load Hiding Metrics
 - Measurement: mean square root error (RMSE)
   - \sqrt(\sum^n_{i=1} (d_i - e_i)^2/n)
+
+
+### Comments
+- I don't think RMSE is a good metrics for measuring the load hiding. For example, 10^2+10^2 < (20)^2, thus it would be better to just have some high peak of the noise distribution.

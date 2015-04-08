@@ -7,3 +7,8 @@
   - v: sensitive part
     - S = &lambda; &cup; v
   - The privacy measure is defined as the amount of difficulty to infer v when only &lambda; is presented or how much probability of finding v
+    - The information leakage transfer function:  p_m = (entropy of v) / (entropy of S)
+  - In addition, the measure whether S and v are drawn from the same distribution by using **Kolmogorov-Smirnov (KS)** test, the misfit is denoted as p_s
+  - Finally, the privacy quatification is p_m * p_s
+  
+

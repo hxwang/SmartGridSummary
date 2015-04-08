@@ -7,6 +7,13 @@
   - Workload: controllable, have a daily powe consumption and are not user driven.
   - Example: electric water boiler
     - controlling a boiler by a given daily power consumption.
-    
+  - Example: electric vehicle charger
+- Workload model
+  - Daily energy consumption: the device is assigned by a daily target energy consumption, i.e., an amont of energy the device is supposed to spend during a day in order to fulfill its target function.
+  - Maximum power: 
+  
+### Proposed Load-based Load Hiding (LLH) Mechanism
+- 
+
 ### Model
 ![](../figs/blh.PNG)

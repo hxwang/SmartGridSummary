@@ -53,3 +53,4 @@
 |[Cost-Effective and Privacy-Preseving Energy Management for Smart Meters](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6876215), by *Lei Yang*, in SGT 2015, [[Summary]](./file/Lei15-privacy-cost.md)|4/5/2015 |**** |
 |[Preserving User Privacy in the Smart Grid by Hiding Appliance Load Characteristics](http://link.springer.com/chapter/10.1007%2F978-3-319-03584-0_6#page-1), by *Baosheng Ge*, in CSS 2013, [[Summary]]()| | |
 |[IOT: To Be Private or Not To Be Private](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6849186), by *Arijit Ukil*, in INFOCOM Workshop 2014, [[Summary]](./file/ukil14-privacy-2bn2b.md)| 4/7/2015|*** |
+|[Load Hiding of Household's Power Demand](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7007755&tag=1), by *Dominik Egarter*, in SmartGridComm 2014| | |

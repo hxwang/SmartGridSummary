@@ -3,6 +3,10 @@
 
 ### Objective
 - NILM can be used to extract appliance profiles from load profiles. It is considered "non-instrusive" because it does this at the electric meter without instrumenting individual appliances. 
+- NILM is an energy disaggregation approach. Energy disaggregation is the task of using an aggregate energy signal, such as that coming from a whole-home power monitor, to make inferences about the different invidual loads of the system. 
+
+### Benefits
+- Information about individual appliances is much more userful to consumers thatn simply total electricity usage.
 
 ### How it works
 - Appliace Profile

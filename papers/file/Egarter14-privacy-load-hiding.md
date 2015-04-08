@@ -24,5 +24,16 @@
 
 ![](../figs/llh.PNG)
 
-### Load Disaggregation Metrics
+### Load Disaggregation Approach
 - Use Factorial Hidden Makrov Chain Model. 
+- Measurement
+  - event-based metrics
+    - true positive, true negative, true positive rate, F-score etc.
+  - non event-based metrics
+    - mean error, hamming loss
+  - the overall metrics
+- In this work, they use acuracy matrics, ACC = (TP + TN)/n
+
+### Load Hiding Metrics
+- Measurement: mean square root error (RMSE)
+  - \sqrt(\sum^n_{i=1} (d_i - e_i)^2/n)

@@ -1,7 +1,7 @@
 ## Other solutions to protect privacy
 
 ### Anomymization of metering data
-- The metering data and customer identity are seperated by a third-party id[[Efthymiou-2010]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622050). 
+- The metering data and customer identity are seperated by a third-party id [[Efthymiou-2010]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622050). 
 
 ### Encrypt/Aggregation
 - Rely on anonymization/escrow or aggregation techniques so that client's information can be aggregated and encrypted. Mentioned in [[Dimitriou-13]](http://dl.acm.org/citation.cfm?id=2480488)

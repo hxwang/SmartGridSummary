@@ -13,7 +13,7 @@
   - Maximum power: 
   
 ### Proposed Load-based Load Hiding (LLH) Mechanism
-- 
+- Given the total energy consumption in a day of the boiler, use bata distribution to decide its energy consumption along the time.
 
 ### Model
 - Schematic representation of BLH system
@@ -23,3 +23,6 @@
 - Schemeatic representation of LLH System
 
 ![](../figs/llh.PNG)
+
+### Load Disaggregation Metrics
+- Use Factorial Hidden Makrov Chain Model. 

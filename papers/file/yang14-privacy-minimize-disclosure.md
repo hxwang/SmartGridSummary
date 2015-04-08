@@ -85,6 +85,13 @@ def random_charging():
 - **Random-Charging**
   - randomly choose whether to charge or discharge the battery
 
+### Main idea
+- Make the metered load to be integer multiples of a constant value, which is the minimum of either the maximum charge or discharge rate.
+- For any possible net demand, there exists a multiple of this constant satisfying the battery constraints.
+- For each level of net demand one can choose either the level just higher than net demand, which will charge the battery, or the level just lower than net demand which will discharge the battery.
+- If the battery's date of charge (SOC) get too high, then the system chooses the lower level and the reverse happens when the battery's state gets too low. 
+- In determine whether to choose the upper or lower level: *Lazy Stepping 2* keeps the metered load constant if possible, otherwise, it randomly choose the upper or the lower level.
+
 ### Limitation of Existing Approach
 - Best Effort (BE)
   - when charging or discarging will exceed the battery capacities

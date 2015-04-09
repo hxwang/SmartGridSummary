@@ -1,4 +1,4 @@
-## Other solutions to protect privacy
+## Solutions to protect privacy
 
 ### Anomymization/Aggregation of metering data
 - Anonymization

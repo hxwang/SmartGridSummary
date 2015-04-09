@@ -17,3 +17,6 @@
 
 ### Model
 - Appliances are treated as transmitters, and step changes are effectively treated as messages transmitted by the appliancesm so the load monitor is designed to act as an adaptive receiver.
+
+### TODO
+- check *sister matching* algorithm

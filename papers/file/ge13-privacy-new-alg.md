@@ -6,4 +6,4 @@
 - A tiny step change will be seen as noise and will be filter out by NILM. 
 
 ### Comment
-- I feel this mechanism is very similar to [Stepping Framework]](./yang14-privacy-minimize-disclosure.md)
+- I feel this mechanism is very similar to [[Stepping Framework]](./yang14-privacy-minimize-disclosure.md)

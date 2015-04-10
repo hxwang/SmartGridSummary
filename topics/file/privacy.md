@@ -16,5 +16,8 @@
   - Comments
     - This approach measures the information leakage. However, it can not directly be applied to smart grid privacy leakage. Since the privacy leakage is in fact related to the detecting mechanism. It is not clear how the entropy corresponds to the information leakage.
 
+### Relative Entropy
+- [[Kalogridis-10]](../../papers/file/Kalogridis10-privacy-undetectable.md)
+
 ### NILM
 - Only the electricity samples with prominent amplitude changes can server as valuable data sources for NILM algorithm.

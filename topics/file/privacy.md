@@ -1,5 +1,8 @@
 ## Privacy Define and Measurement
 
+### Privacy 
+- Privacy is defined as "undetectability" [[Andreas-10]](https://dud.inf.tu-dresden.de/literatur/Anon_Terminology_v0.34.pdf)
+
 ### Entropy
 - [[Arijit-2014]](../../papers/file/ukil14-privacy-2bn2b.md)
   - S: sensor data set

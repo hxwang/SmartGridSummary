@@ -1,5 +1,13 @@
 ## [Protecting Consumer Privacy from Electric Load Monitoring](http://www.cse.psu.edu/~smclaugh/cse598e-f11/papers/mclaughlin-ccs.pdf)
 
+### Main idea
+- Keep the external energy level at some constant 
+- The constant value dynamic adjusted according to expoential weighted average.
+
+### Measurement
+- Compare observed features
+- Compare entropies calculated using the changes, the larger the entropy, the larger the information leaked.
+
 ### Summary
 In this paper, the authors propose an NILL scheme for protecting consumer privacy from electric load monitorng.  
 

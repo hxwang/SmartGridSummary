@@ -18,6 +18,12 @@
 
 ### Relative Entropy
 - [[Kalogridis-10]](../../papers/file/Kalogridis10-privacy-undetectable.md)
+- The relative entropy or Kullback Leibler distance is a well know information theoreitc quantity which can be used to compare two sources of information. To employ this matric in the privacy context, we assume e(t) and d(t) can be modelled as stochastic process with probability measures P and Q. 
+- If f_p(x) and f_q(x) are the probability density functions (pdfs) of p and q, the relative entropy D(P||Q) is defined as
+  - D(P||Q) = \sum^{x_max}_{x_min} f_p(x) log( f_p(x) / f_q(x))
+- The importance of the relative entropy is that (although it is not a distance as defined in mathematical sense), it quatifies the relation between P and Q. For example, the relative entropy is always positive, and for P identical to Q, it is 0.
+- Strictly speaking, the relative entropy is premetric.
+- Accordingly, the level of protection offered by an algorithm can be measured by the relative entropy D(P||Q) such that the higher the level of protection offered, the larger the relative entropy.
 
 ### NILM
 - Only the electricity samples with prominent amplitude changes can server as valuable data sources for NILM algorithm.

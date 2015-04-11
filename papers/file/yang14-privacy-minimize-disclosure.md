@@ -1,7 +1,7 @@
 ## [Minimizing Private data disclosures in the smart grid](http://dl.acm.org/citation.cfm?id=2382242)
 
 ### Summary
-- Existing BE and NILL algorithms are not able to handle peak demand.
+- Existing BE and NILL algorithms are not able to handle peak demand due to battery capacity constraints.
 
 ### Model
 - observed load change: e'(t)

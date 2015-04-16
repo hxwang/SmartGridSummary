@@ -2,6 +2,11 @@
 
 ### Summary
 - A typical approach to privacy in smart meter data is aggregation along dimensions of space (using neighborhood gateways), time (using battery storage), or precision (using noise addition). [[Sraj-11]](../../papers/file/sraj11-utility-privacy.md)
+  - **Limitation**: these solutions seek to support utility and privacy in different ways; however, they do not have a robust theoretical basis for both privacy and utility. 
+- Why need a theoreitcal framework of  utility-privacy [[Sraj-11]](../../papers/file/sraj11-utility-privacy.md)
+  - We need a privacy framework that not only address the capabilities of current non-intrusive load monitoring (NALM) techniquesbut is also extensible to future ones. 
+  - A theoretical famework enables us to examine the costs of lost privacy against the benefits of data diseemination, namely, the tradeoff between privacy and utility.
+  - It would be desire to give each customer the ability to decide the tradeoff and also to give the electricity provider the ability to incentivize the customer to participate in such a bargain by offering intersing points of tradeoff.
   
 ### Anomymization/Aggregation of metering data
 - Anonymization

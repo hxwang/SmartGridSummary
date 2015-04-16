@@ -11,7 +11,7 @@
 |Title| Status| Rate|
 |:----|:---|:---|
 |[Sharing renewable energy in smart microgrids](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6604016), by *Ting Zhu*, in ICCPS 2013| | |
-|[iDES: Incentivedriven distributed energy sharing in sustainble microgrids](http://www-users.cs.umn.edu/~yugu/paper/iDES%20Incentive-Driven%20Distributed%20Energy%20Sharing%20in%20Sustainable%20Microgrids.pdf), by *Ting Zhu*, in IGCC 2014| | |
+|[iDES: Incentive-Driven distributed energy sharing in sustainble microgrids](http://www-users.cs.umn.edu/~yugu/paper/iDES%20Incentive-Driven%20Distributed%20Energy%20Sharing%20in%20Sustainable%20Microgrids.pdf), by *Ting Zhu*, in IGCC 2014| | |
 
 ### Electric Vehicles
 |Title| Status| Rate|

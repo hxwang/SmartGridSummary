@@ -59,4 +59,4 @@
 |[Preserving User Privacy in the Smart Grid by Hiding Appliance Load Characteristics](http://link.springer.com/chapter/10.1007%2F978-3-319-03584-0_6#page-1), by *Baosheng Ge*, in CSS 2013, [[Summary]](./file/ge13-privacy-new-alg.md)|4/9/2015 | ****|
 |[IOT: To Be Private or Not To Be Private](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6849186), by *Arijit Ukil*, in INFOCOM Workshop 2014, [[Summary]](./file/ukil14-privacy-2bn2b.md)| 4/7/2015|*** |
 |[Load Hiding of Household's Power Demand](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7007755&tag=1), by *Dominik Egarter*, in SmartGridComm 2014, [[Summary]](./file/Egarter14-privacy-load-hiding.md)|4/7/2015 |**** |
-|[Smart Meter Privacy: A Utility-Privacy Framework](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6102315), by *S. Raj*, in SmartGridComm 2011| | |
+|[Smart Meter Privacy: A Utility-Privacy Framework](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6102315), by *S. Raj*, in SmartGridComm 2011, [[Summary]](./file/sraj11-utility-privacy.md)| | |

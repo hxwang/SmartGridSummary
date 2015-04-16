@@ -2,6 +2,11 @@
 
 - note: the rating of a paper is based on its relevance to my research
 
+### Demand Side Management (DSM)
+|Title| Status| Rate|
+|:----|:---|:---|
+|[Efficiency-Fairness Trade-off in Privacy-Preserving Autonomous Demand Side Management](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6740907), by *Zahra Baharlouei*, in Smart Grid Tran 2014| | |
+
 ### Electric Vehicles
 |Title| Status| Rate|
 |:----|:---|:---|

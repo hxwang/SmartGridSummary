@@ -1,7 +1,7 @@
 ## Solutions to protect privacy
 
 ### Summary
-- A typical approach to privacy in smart meter data is aggregation along dimensions of space (using neighborhood gateways), time (using battery storage), or precision (using noise addition). [[Sraj-11](../papers/file/sraj11-utility-privacy.md)
+- A typical approach to privacy in smart meter data is aggregation along dimensions of space (using neighborhood gateways), time (using battery storage), or precision (using noise addition). [[Sraj-11]](../papers/file/sraj11-utility-privacy.md)
   
 ### Anomymization/Aggregation of metering data
 - Anonymization

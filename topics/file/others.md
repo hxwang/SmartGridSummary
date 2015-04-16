@@ -1,11 +1,15 @@
 ## Solutions to protect privacy
 
+### Summary
+- A typical approach to privacy in smart meter data is aggregation along dimensions of space (using neighborhood gateways), time (using battery storage), or precision (using noise addition). [[Sraj-11](../papers/file/sraj11-utility-privacy.md)
+  
 ### Anomymization/Aggregation of metering data
 - Anonymization
   - The metering data and customer identity are seperated by a third-party id [[Efthymiou-2010]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622050). 
 - Privacy-preserving metering data aggregation
   - Metering data is geographically encapsulated by aggreagting the metering data of co-located consumers [[Li-2011]](http://cae.ittc.ku.edu/papers/Li-IJSN.pdf). 
   - Rely on anonymization/escrow or aggregation techniques so that client's information can be aggregated and encrypted. Mentioned in [[Dimitriou-13]](http://dl.acm.org/citation.cfm?id=2480488)
+- More about aggregation
 - **Drawback**
   - This merely transfers doubts about trustworthiness from one party to another
   

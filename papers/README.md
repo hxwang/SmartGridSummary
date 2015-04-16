@@ -7,6 +7,12 @@
 |:----|:---|:---|
 |[Efficiency-Fairness Trade-off in Privacy-Preserving Autonomous Demand Side Management](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6740907), by *Zahra Baharlouei*, in Smart Grid Tran 2014, [[Summary]](./file/zahra-efficiency-fairness-dsm.md)| | |
 
+### Energy Sharing
+|Title| Status| Rate|
+|:----|:---|:---|
+|[Sharing renewable energy in smart microgrids](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6604016), by *Ting Zhu*, in ICCPS 2013| | |
+
+
 ### Electric Vehicles
 |Title| Status| Rate|
 |:----|:---|:---|

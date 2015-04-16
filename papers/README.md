@@ -5,7 +5,7 @@
 ### Demand Side Management (DSM)
 |Title| Status| Rate|
 |:----|:---|:---|
-|[Efficiency-Fairness Trade-off in Privacy-Preserving Autonomous Demand Side Management](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6740907), by *Zahra Baharlouei*, in Smart Grid Tran 2014| | |
+|[Efficiency-Fairness Trade-off in Privacy-Preserving Autonomous Demand Side Management](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6740907), by *Zahra Baharlouei*, in Smart Grid Tran 2014, [[Summary]](./file/zahra-efficiency-fairness-dsm.md)| | |
 
 ### Electric Vehicles
 |Title| Status| Rate|

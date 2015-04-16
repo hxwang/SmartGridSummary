@@ -15,6 +15,9 @@
 - AMI is composed of networked smart meters, but these smart meters not only collect register reads, the montly electricity consumption information for billing purposes, but also collect interval data (typically the minute-leve lor second-level electricity consumption information for billing purposes). [[Zhao-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6847974)
   - On one hand, this fine-grained information enables trending, forecasting and fault detection analysis, which leads to a more efficient and robust grid system.
   - On the other hand, this information reveals important personal information - human behaviors. For example, by applying the None-Intrusive Load Monitoring (NILM) techniques, attackers can efficiently derivce the appliance usage patterns of the residents from the fine-grained energy usage profile. 
+- Benefits of the high resolution data [S.Raj-2011](../papers/file/sraj11-utility-privacy.md)
+  - The main motivation is to forecast load demand and to provide optimized service to consumers in the form of pricing structure [[Existing Policy]](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1462285).
+  - An *electric provider* can use this information to facilitate more efficient network management, peak load reduction, load shaping, and a number of other such users.  
 
 ### None Intrusive Load Monitoring (NILM)
 - NILM has been designed to aid electric utilities in the collection of appliance end user data. 

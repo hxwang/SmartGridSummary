@@ -2,3 +2,6 @@
 
 
 ### Summary
+- abstract the privacy and utility requirement of smart meter data
+- tradeoff privacy and utility 
+  - e.g., for a stationary Gaussian Markov model of the electricity load, it is shown that the optimal utility-and-porivacy preserving solution requires filtering out frequency components that are low in power.

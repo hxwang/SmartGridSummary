@@ -100,3 +100,8 @@ def random_charging():
   
 ### TODO
 - check how they compare the algorithms
+
+
+### Comments
+- Actually non-deterministic should be associated in the algorithms, otherwise the adversary could recover the original trace
+- The beauty of this paper is that it create a randomness!

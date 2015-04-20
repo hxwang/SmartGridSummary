@@ -8,6 +8,7 @@
 |[Smorodinsky solution to bargaining problems](http://cermsem.univ-paris1.fr/davila/teaching/BargTh/Bargaining\%20slides\%20-\%202\%20-\%20Kalai-Smorodinsky.pdf), by *Julio D´avila*, in 2009| |
 |[Unleasing Fair Division Algorithm](http://www.sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf), by *JONATHAN GOLDMAN*, in 2014| | |
 |[Incentives in Peer-to-Peer Systems](http://www.cis.upenn.edu/~mkearns/teaching/NetworksAGT/oleg.pdf), by *Oleg Narodisky*, in 2009| | |
+|[Algorithmic Game Theory](file:///C:/Users/hwang14/Dropbox/1_Gradual_Courses/e-book/Math/Nisan_Algorithmic-game-theory.pdf), by *Noam Nisan*| | |
 
 ### Demand Side Management (DSM)
 |Title| Status| Rate|

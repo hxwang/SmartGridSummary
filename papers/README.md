@@ -2,6 +2,13 @@
 
 - note: the rating of a paper is based on its relevance to my research
 
+### Game Theory
+|Title| Status| Rate|
+|:----|:---|:---|
+|[Smorodinsky solution to bargaining problems](http://cermsem.univ-paris1.fr/davila/teaching/BargTh/Bargaining\%20slides\%20-\%202\%20-\%20Kalai-Smorodinsky.pdf), by *Julio D´avila*, in 2009| |
+
+
+
 ### Demand Side Management (DSM)
 |Title| Status| Rate|
 |:----|:---|:---|

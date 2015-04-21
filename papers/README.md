@@ -10,6 +10,7 @@
 |[Incentives in Peer-to-Peer Systems](http://www.cis.upenn.edu/~mkearns/teaching/NetworksAGT/oleg.pdf), by *Oleg Narodisky*, in 2009| | |
 |[Algorithmic Game Theory](file:///C:/Users/hwang14/Dropbox/1_Gradual_Courses/e-book/Math/Nisan_Algorithmic-game-theory.pdf), by *Noam Nisan*| | |
 |[Other solution to nash bargaining problem](http://cermsem.univ-paris1.fr/davila/teaching/BargTh/Kalai-Smorodinsky-Other_Solutions_to_Nashs_Bargaing_Problem-EMA75.pdf), by *Ehud Kalai*| | |
+|[The Bargaining Problem](http://www.eecs.harvard.edu/cs286r/courses/spring02/papers/nash50a.pdf), by *John Nash*| | |
 
 ### Demand Side Management (DSM)
 |Title| Status| Rate|

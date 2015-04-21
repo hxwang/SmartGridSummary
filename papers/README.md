@@ -9,6 +9,7 @@
 |[Unleasing Fair Division Algorithm](http://www.sigecom.org/exchanges/volume_13/2/GOLDMAN.pdf), by *JONATHAN GOLDMAN*, in 2014| | |
 |[Incentives in Peer-to-Peer Systems](http://www.cis.upenn.edu/~mkearns/teaching/NetworksAGT/oleg.pdf), by *Oleg Narodisky*, in 2009| | |
 |[Algorithmic Game Theory](file:///C:/Users/hwang14/Dropbox/1_Gradual_Courses/e-book/Math/Nisan_Algorithmic-game-theory.pdf), by *Noam Nisan*| | |
+|[Other solution to nash bargaining problem](http://cermsem.univ-paris1.fr/davila/teaching/BargTh/Kalai-Smorodinsky-Other_Solutions_to_Nashs_Bargaing_Problem-EMA75.pdf), by *Ehud Kalai*| | |
 
 ### Demand Side Management (DSM)
 |Title| Status| Rate|

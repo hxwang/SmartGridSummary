@@ -2,3 +2,6 @@
 
 ### Summary
 - Part of the contents is summarized [here](http://hwang14.blogspot.com/2015/04/kalai-smorodinsky-solution-to.html)
+
+### TODO
+- discuss the underlaying idea, &delta; y_1 / &delta; y_2

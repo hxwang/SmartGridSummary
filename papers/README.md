@@ -11,7 +11,7 @@
 |[Algorithmic Game Theory](file:///C:/Users/hwang14/Dropbox/1_Gradual_Courses/e-book/Math/Nisan_Algorithmic-game-theory.pdf), by *Noam Nisan*| | |
 |[Other solution to nash bargaining problem](http://cermsem.univ-paris1.fr/davila/teaching/BargTh/Kalai-Smorodinsky-Other_Solutions_to_Nashs_Bargaing_Problem-EMA75.pdf), by *Ehud Kalai*, [[Summary]](./file/kalai-bargain.md)| 4/24/2015| ****|
 |[The Bargaining Problem](http://www.eecs.harvard.edu/cs286r/courses/spring02/papers/nash50a.pdf), by *John Nash*, in STOR 2002, [[Summary]](./file/nash50-bargaining.md)| 4/23/2015| **** |
-|[Empirical Price Modeling for Sponsored Search](http://opim.wharton.upenn.edu/ssa3/pdf/submission_89.pdf), by *Kuzman Ganchev*, in WWW 2007| | |
+|[Empirical Price Modeling for Sponsored Search](http://opim.wharton.upenn.edu/ssa3/pdf/submission_89.pdf), by *Kuzman Ganchev*, in WWW 2007| 4/26/2015|* |
 
 
 ### Demand Side Management (DSM)
